@@ -8,7 +8,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # social icons hidden (per user preference)
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
