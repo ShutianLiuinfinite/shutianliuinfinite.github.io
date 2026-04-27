@@ -1,0 +1,9 @@
+# Social media links and usernames. Order here = display order.
+# https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/cv.pdf
+email: s.liu20@imperial.ac.uk
+github_username: ShutianLiuinfinite
+linkedin_username: # add your linkedin username (without https://www.linkedin.com/in/) once you confirm
+# scholar_userid: # add your Google Scholar ID once you confirm
+# orcid_id: # add your ORCID iD (e.g., 0000-0000-0000-0000) once you confirm
+rss_icon: false
