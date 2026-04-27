@@ -52,16 +52,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-presented-at-using-genetic-data-to-address-economic-and-social-issues-with-cohort-data-ucl",
-          title: 'Presented at Using Genetic Data to Address Economic and Social Issues with Cohort...',
-          description: "",
-          section: "News",},{id: "news-presented-at-the-16th-annual-integrating-genetics-and-the-social-sciences-conference-at-stanford-university",
-          title: 'Presented at the 16th Annual Integrating Genetics and the Social Sciences Conference at...',
-          description: "",
-          section: "News",},{id: "news-i-am-on-the-2026-2027-academic-job-market-my-job-market-paper-is-available-here",
-          title: 'I am on the 2026–2027 academic job market. My job market paper is...',
-          description: "",
-          section: "News",},{
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
