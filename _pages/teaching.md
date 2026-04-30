@@ -15,7 +15,7 @@ nav_order: 3
 Instructor: [Prof. Franco Sassi](https://www.imperial.ac.uk/people/f.sassi)
 
 **Healthcare and Medical Analytics** &nbsp; &middot; &nbsp; *2022&ndash;2026*
-Instructor: [Prof. Laure de Preux](https://www.imperial.ac.uk/people/l.de-preux)
+Instructor: [Prof. Laure de Preux](https://profiles.imperial.ac.uk/l.depreux)
 
 ### Undergraduate
 
