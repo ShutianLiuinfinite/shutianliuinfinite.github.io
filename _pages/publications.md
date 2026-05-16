@@ -54,14 +54,14 @@ Children from poorer families show a stronger link between genetic predictors an
 
 <div class="paper-entry" markdown="1">
 
-### Higher Promise, Louder Rebellion: How Educational Genetic Endowment Amplifies Conduct-Problem Responses to Adolescent Cyberbullying
+### Lower Endowment, Heavier Toll: How the Education Polygenic Index Buffers Adolescent Mental-Health Harm from Cyberbullying
 
 <div class="meta">Shutian Liu &middot; 2026</div>
 
 <details markdown="1">
 <summary>Abstract</summary>
 <div class="abstract" markdown="1">
-Adolescent mental health in Europe is deteriorating, and cyberbullying remains one of the strongest modifiable risk factors. Public health responses treat the bullying&ndash;mental health pathway as uniform across adolescents, but the response may be genetically heterogeneous. This project asks whether, among adolescents exposed to the same level of bullying, those with a higher polygenic index for educational attainment suffer more or less psychiatric harm. Using the Millennium Cohort Study, I estimate gene-by-environment specifications that progressively incorporate value-added controls, mother's and father's edu PGI, and parental mental health. Preliminary results indicate that edu PGI amplifies&mdash;rather than buffers&mdash;the effect of cyberbullying at age 14 on self-reported SDQ Total Difficulties at age 17, with the interaction concentrated in conduct problems rather than emotional symptoms. The pattern suggests that high-achieving adolescents respond to peer victimisation through externalising behaviours, and points to developmentally targeted interventions at the critical age-14 window.
+Adolescent mental health in Europe is deteriorating, and cyberbullying remains one of the strongest modifiable risk factors. Public health responses treat the bullying&ndash;mental health pathway as uniform across adolescents, but the response may be genetically heterogeneous. This project asks whether, among adolescents exposed to the same level of cyberbullying, those with a higher polygenic index for educational attainment suffer more or less psychiatric harm. Using the Millennium Cohort Study, I estimate gene-by-environment specifications that progressively incorporate value-added controls, mother's and father's edu PGI, and parental mental health on a both-parents-genotyped trio sample. Preliminary results indicate that edu PGI buffers&mdash;rather than amplifies&mdash;the effect of cyberbullying at age 14 on self-reported SDQ Total Difficulties at age 17, with the buffering concentrated among girls and operating through the emotional and peer subscales rather than conduct or hyperactivity. Adolescents at the lower end of the polygenic-index distribution bear roughly three times the cyber mental-health penalty borne by adolescents at the top, pointing to anti-bullying interventions whose largest welfare gains accrue to the already-disadvantaged tail of the genetic-endowment distribution at a developmentally targeted age-14 window.
 </div>
 </details>
 
