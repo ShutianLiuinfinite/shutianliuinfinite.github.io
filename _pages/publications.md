@@ -54,14 +54,14 @@ Children from poorer families show a stronger link between genetic predictors an
 
 <div class="paper-entry" markdown="1">
 
-### Lower Endowment, Heavier Toll: How the Education Polygenic Index Buffers Adolescent Mental-Health Harm from Cyberbullying
+### Lower Endowment, Heavier Toll: Polygenic Moderation of the Cyberbullying&ndash;Mental-Health Gradient in Adolescence
 
 <div class="meta">Shutian Liu &middot; 2026</div>
 
 <details markdown="1">
 <summary>Abstract</summary>
 <div class="abstract" markdown="1">
-Adolescent mental health in Europe is deteriorating, and cyberbullying remains one of the strongest modifiable risk factors. Public health responses treat the bullying&ndash;mental health pathway as uniform across adolescents, but the response may be genetically heterogeneous. This project asks whether, among adolescents exposed to the same level of cyberbullying, those with a higher polygenic index for educational attainment suffer more or less psychiatric harm. Using the Millennium Cohort Study, I estimate gene-by-environment specifications that progressively incorporate value-added controls, mother's and father's edu PGI, and parental mental health on a both-parents-genotyped trio sample. Preliminary results indicate that edu PGI buffers&mdash;rather than amplifies&mdash;the effect of cyberbullying at age 14 on self-reported SDQ Total Difficulties at age 17, with the buffering concentrated among girls and operating through the emotional and peer subscales rather than conduct or hyperactivity. Adolescents at the lower end of the polygenic-index distribution bear roughly three times the cyber mental-health penalty borne by adolescents at the top, pointing to anti-bullying interventions whose largest welfare gains accrue to the already-disadvantaged tail of the genetic-endowment distribution at a developmentally targeted age-14 window.
+Adolescent mental health in Europe is deteriorating, and the cross-sectional relationship between cyberbullying and adolescent mental health is widely documented. Public health discussions treat this relationship as uniform across adolescents, but the conditional association may vary systematically with adolescents' genetic predispositions. This project asks whether the age-17 SDQ&ndash;cyberbullying association in the Millennium Cohort Study varies with the cohort member's polygenic index for educational attainment. I estimate gene-by-environment specifications on a both-parents-genotyped trio sample, with mother's and father's edu PGI, value-added controls, and parental mental health as covariates. The PGI moderation parameter is identified within-family via random meiotic-draw variation in the cohort member's PGI conditional on both parents' PGI; the main cyberbullying&ndash;SDQ relationship remains observational and is not causally identified. Preliminary results indicate that the conditional SDQ&ndash;cyberbullying association is roughly three times steeper at the bottom of the polygenic-index distribution than at the top, with the gradient concentrated among girls and steeper in emotional and peer subscales than in conduct or hyperactivity. Whether intervention on cyberbullying would deliver welfare gains in the direction implied by this gradient is a separate, untested causal question.
 </div>
 </details>
 
