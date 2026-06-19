@@ -33,7 +33,7 @@ nav_order: 2
 
 <div class="paper-entry" markdown="1">
 
-### [The Unequal Weight of Genes: How Early-Life Environments Modify the Effects of Genetic Predispositions](https://github.com/ShutianLiuinfinite/gbye-mcs-bmises-public/raw/main/paper.pdf)
+### [The Unequal Weight of Genes: How Early-Life Environments Modify the Effects of Genetic Predispositions](https://github.com/ShutianLiuinfinite/gbye-mcs-bmises-public/blob/main/paper.pdf)
 
 <div class="meta">Shutian Liu &middot; 2026</div>
 
@@ -45,7 +45,7 @@ Children from poorer families show a stronger link between genetic predictors an
 </details>
 
 <div class="links">
-  [<a href="https://github.com/ShutianLiuinfinite/gbye-mcs-bmises-public/raw/main/paper.pdf">Paper</a>]
+  [<a href="https://github.com/ShutianLiuinfinite/gbye-mcs-bmises-public/blob/main/paper.pdf">Paper</a>]
 </div>
 
 </div>
